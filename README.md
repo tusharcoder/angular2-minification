@@ -3,9 +3,10 @@ Angular 2 application demonstrates how to build production ready minified Angula
 #run npm install
 To install all the dependencies
 #Follow commands
+```bash
 npm i
 npm run build_prod
 npm run serve
-
+```
 #License
 MIT

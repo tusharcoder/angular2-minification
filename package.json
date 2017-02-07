@@ -2,7 +2,7 @@
   "name": "angular2-minification",
   "version": "1.0.0",
   "private":true,
-  "description": "This is the anguloar 2 app minified",
+  "description": "This is the angular 2 app minified",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
